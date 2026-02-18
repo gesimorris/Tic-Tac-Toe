@@ -1,0 +1,1 @@
+A simple terminal-based game implemented in C. Focuses on the use of arrays, control structures, and game loop logic. Designed to strengthen understanding of C programming fundamentals through a hands-on game project.
